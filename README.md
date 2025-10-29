@@ -3,7 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Frontend+Developer">
 </p>
 
+<div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Bishoy-Labib&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/BishoyLabib7)
+[![GitHub Followers](https://img.shields.io/github/followers/Bishoy-Labib?style=social)](https://github.com/BishoyLabib7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishoy-labib-2888a0232)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:bishoylabib78@gmail.com)
+
+</div>
 
 ## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif" width = 50px></picture> About me
 <a align="center">
