@@ -19,7 +19,7 @@
 <br>
 
 - :briefcase: I am a Frontend Engineer at `Intella`.
-- :school: Computer Science graduate from the `Faculty of Computers & Informatics`.
+- :school: Graduate from the `Faculty of Computers & Informatics`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
 - :nerd_face: Always `learning new things`.
